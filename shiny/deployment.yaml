@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: funathon2024-sujet2
-        image: julienedo/funathon2024-sujet2:shiny-test2
+        image: julienedo/funathon2024-sujet2:latest
         ports:
         - containerPort: 3838
